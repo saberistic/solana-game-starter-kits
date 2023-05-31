@@ -2,13 +2,13 @@
 seeds = false
 skip-lint = false
 [programs.localnet]
-tiny_adventure = "2F2K73Sj1ygx4N9ptCegrxEDvGNLCndrsCdmUbcHej3c"
+tiny_adventure = "6GGoL4Zq7rjGs6V5mwr5C4Yozpgz12c2DsmNXR3K3GHa"
 
 [registry]
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "localnet"
+cluster = "devnet"
 wallet = "~/.config/solana/id.json"
 
 [scripts]
